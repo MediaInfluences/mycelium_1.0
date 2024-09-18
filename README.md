@@ -35,17 +35,18 @@ Install the dependencies and and start the Modal server.
 cd mycelium
 npm install
 pip install -r requirements.txt
-modal run federated_learning.py # Federated Learning starts here
+modal run ComputeNode1.py # Federated Learning starts here
+modal run ComputeNode2.py
+modal run ComputeNode3.py
+modal run DecentralizedModel.py # pdating gobal model with new weights 
 ```
 
 ## License
 
 MIT
 ## Contact Info
-Feel free to contact us for any questions or recruitment opportunities
-[Ujjwal's Linkedin]: <https://www.linkedin.com/in/ujjwalsinghh/>
+Feel free to contact me for any questions or recruitment opportunities
    [Jon's Linkedin]: <https://www.linkedin.com/in/jkozlik/>
-   [Shriya's Linkedin]: <https://www.linkedin.com/in/sriya-chinthalapudi/>
 
 
-**If you're a recruiter, feel free to click our profiles and click on our Linkedin links**
+**If you're a recruiter, feel free to click our profiles and click on my Linkedin link**
